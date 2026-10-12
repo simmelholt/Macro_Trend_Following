@@ -1,3 +1,7 @@
+**Please see the PDF file for the theoretical framework and detailed methodology underlying the trend-following strategy.**
+
+*Abstract*
+
 I replicate the SG Trend Index using the bottom-up and top-down
 decomposition of Jungle Rock (2024), with a different estimator for
 each component. The bottom-up component clusters 560 risk-parity trend
